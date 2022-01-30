@@ -1,0 +1,9 @@
+When is Try-Finally used?
+Try finally is used in a situation where we need to ensure a file or other resources are not left opened after being used by a user. This is to make sure that 
+the file is closed for another user who could need to access the file is nor hindered from accessing it. 
+
+
+
+When is "Using" used?
+The Using stetment is used differently from try-catch and finally to disposes a resources of a method called. Using is used to release a resources whethet exceptions are thrown or not.
+The using keyword is also used as a simplified form of dispose pattern.

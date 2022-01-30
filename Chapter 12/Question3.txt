@@ -1,0 +1,6 @@
+ApplicationEcxeption
+
+ApplicationException()
+ApplicationException(SerializationInfo, StreamingContext)
+ApplicationException(String)
+ApplicationException(String, Exception)

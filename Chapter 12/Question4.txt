@@ -1,0 +1,19 @@
+Exception
+
+An exception is an object that represents some kind of exceptional condition in lines of codes set for execution.  It indicates that something has gone wrong at a point in the build-up of the code. 
+This could be a programming error—attempting to divide by zero, attempting to invoke a method on an object that does not define the method, or passing an invalid argument to a method. It could also result 
+from some kind of external condition—making a network request when the network is down, or trying to create an object when the system is out of memory.
+
+Exception Handling
+
+Exception handling is use to handle situations in the lines of code the could obstruct the code for successful implementation. 
+This is primarily to avert the situation that could make the program crash. Exception handling can be performed at both the 
+software (as part of the program itself) and hardware levels (using mechanisms built into the design of the CPU).
+
+How to Catch Exceptions
+
+The Try, Catch, Finally construction is usually used to handle exceptions in programs. The try-catch-finally method is already domiciled in the
+Exceeptin class.
+Exception handling messages can also be customised to give specific information on the actual actions that need to be performed for successful 
+execution of a program.   
+

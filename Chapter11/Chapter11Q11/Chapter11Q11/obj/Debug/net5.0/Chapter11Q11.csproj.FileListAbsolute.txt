@@ -1,0 +1,16 @@
+C:\Users\Owner\source\repos\Chapter11Q11\Chapter11Q11\bin\Debug\net5.0\Chapter11Q11.exe
+C:\Users\Owner\source\repos\Chapter11Q11\Chapter11Q11\bin\Debug\net5.0\Chapter11Q11.deps.json
+C:\Users\Owner\source\repos\Chapter11Q11\Chapter11Q11\bin\Debug\net5.0\Chapter11Q11.runtimeconfig.json
+C:\Users\Owner\source\repos\Chapter11Q11\Chapter11Q11\bin\Debug\net5.0\Chapter11Q11.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Chapter11Q11\Chapter11Q11\bin\Debug\net5.0\Chapter11Q11.dll
+C:\Users\Owner\source\repos\Chapter11Q11\Chapter11Q11\bin\Debug\net5.0\ref\Chapter11Q11.dll
+C:\Users\Owner\source\repos\Chapter11Q11\Chapter11Q11\bin\Debug\net5.0\Chapter11Q11.pdb
+C:\Users\Owner\source\repos\Chapter11Q11\Chapter11Q11\obj\Debug\net5.0\Chapter11Q11.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Chapter11Q11\Chapter11Q11\obj\Debug\net5.0\Chapter11Q11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Chapter11Q11\Chapter11Q11\obj\Debug\net5.0\Chapter11Q11.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Chapter11Q11\Chapter11Q11\obj\Debug\net5.0\Chapter11Q11.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Chapter11Q11\Chapter11Q11\obj\Debug\net5.0\Chapter11Q11.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Chapter11Q11\Chapter11Q11\obj\Debug\net5.0\Chapter11Q11.dll
+C:\Users\Owner\source\repos\Chapter11Q11\Chapter11Q11\obj\Debug\net5.0\ref\Chapter11Q11.dll
+C:\Users\Owner\source\repos\Chapter11Q11\Chapter11Q11\obj\Debug\net5.0\Chapter11Q11.pdb
+C:\Users\Owner\source\repos\Chapter11Q11\Chapter11Q11\obj\Debug\net5.0\Chapter11Q11.genruntimeconfig.cache

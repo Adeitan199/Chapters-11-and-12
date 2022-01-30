@@ -1,0 +1,9 @@
+The Advantages of Using Exceptions
+
+1. Sepeartion of the Exception Handling Code: The use of exceptions in programs helps to separate the normal code from the lines/block of code that cause unexpected execution in the cause of executing the blocks of code. 
+
+2. Grouping Different Error Types: One advantage of using exceptions is that it allows for catch and handling of a whole group of exceptions at a time. With the use of exceptions, the whole hierarchy of exceptions and their inheritors can all be caught.
+
+3. Exceptions are caught at the appropriate place(s): With the use of try catch method, multiple exceptions can be caught at their appropriate place and related exception handling messages are thrown for proper handling of the different exceptions.  
+
+
